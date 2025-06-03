@@ -55,7 +55,7 @@
 - https://github.com/e11106013/LLM/blob/main/Testing_royal_ZhTW_ID_q4_k_GGUF.ipynb
 - https://github.com/e11106013/LLM/blob/main/Testing_royal_ZhTW_ID_q4_k_GGUFv2.ipynb
 
-[![影片標題](https://img.youtube.com/vi/pkRXSJB71Z8/0.jpg)](https://www.youtube.com/watch?v=pkRXSJB71Z8)
+[![影片標題](https://img.youtube.com/vi/DyI6_FG_GAg/0.jpg)](https://www.youtube.com/watch?v=DyI6_FG_GAg)
 
 
 ### 功能說明
