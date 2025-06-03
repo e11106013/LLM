@@ -48,6 +48,7 @@
 
 ## 3. Testing_royal_ZhTW_ID_q4_k_GGUF.ipynb
 - https://github.com/e11106013/LLM/blob/main/Testing_royal_ZhTW_ID_q4_k_GGUF.ipynb
+- https://github.com/e11106013/LLM/blob/main/Testing_royal_ZhTW_ID_q4_k_GGUFv2.ipynb
 
 ### 功能說明
 - 示範如何在本地端安裝與測試 Hugging Face 上的 GGUF 格式中文/印尼文 LLM（如 royal-ZhTW-ID）。
