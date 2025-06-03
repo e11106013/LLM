@@ -7,6 +7,9 @@
 ## 1. LLM_to_Graph.ipynb
 - https://github.com/e11106013/LLM/blob/main/LLM_to_Graph.ipynb
 
+[![影片標題](https://img.youtube.com/vi/gmHjLIgA898/0.jpg)](https://www.youtube.com/watch?v=gmHjLIgA898)
+
+
 ### 功能說明
 - 利用 LLM（如 Llama、Groq API）從文章中自動抽取本體（ontology）與關係（relation），構建知識圖譜（Knowledge Graph）。
 - 支援中文文本，並將段落切分、分詞、呼叫 LLM 產生三元組 (node_1, edge, node_2)。
