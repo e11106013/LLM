@@ -11,8 +11,8 @@
 - 利用 LLM（如 Llama、Groq API）從文章中自動抽取本體（ontology）與關係（relation），構建知識圖譜（Knowledge Graph）。
 - 支援中文文本，並將段落切分、分詞、呼叫 LLM 產生三元組 (node_1, edge, node_2)。
 - 以 NetworkX 及 PyVis 進行視覺化、社群偵測與顏色分群。
-- 範例數據：以「賽德克．巴萊」霧社事件文章做知識圖譜生成。
-
+- 範例文件：以「賽德克．巴萊」霧社事件文章做知識圖譜生成。
+  
 ### 主要套件
 - langchain_community
 - jq
@@ -70,7 +70,7 @@
 建議使用 Python 3.8 以上、Jupyter Lab/Notebook 執行。部分 Notebook 需配合 Google Colab 或 GPU 執行以加速 LLM 推論。
 
 ## 資料來源
-
+- [檔案管理局](https://www.archives.gov.tw/).
 - [交通部開放資料平台](https://link.motc.gov.tw/DownloadFile)
 - [Hugging Face](https://huggingface.co/roylin1003/royal-ZhTW-ID-q4_k_m)
 - Groq API、OpenAI API
