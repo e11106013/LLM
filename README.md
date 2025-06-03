@@ -79,7 +79,7 @@
 建議使用 Python 3.8 以上、Jupyter Lab/Notebook 執行。部分 Notebook 需配合 Google Colab 或 GPU 執行以加速 LLM 推論。
 
 ## 資料來源
-- [檔案管理局](https://www.archives.gov.tw/).
+- [檔案管理局](https://www.archives.gov.tw/)
 - [交通部開放資料平台](https://link.motc.gov.tw/DownloadFile)
 - [Hugging Face](https://huggingface.co/roylin1003/royal-ZhTW-ID-q4_k_m)
 - Groq API、OpenAI API
